@@ -1,0 +1,5 @@
+{
+  "name": "Particle Christmas Tree",
+  "description": "A 3D interactive particle Christmas tree where you can upload photos to tint the lights, featuring gesture controls and festive background music.",
+  "requestFramePermissions": []
+}
